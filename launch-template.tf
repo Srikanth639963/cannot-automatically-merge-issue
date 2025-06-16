@@ -1,5 +1,5 @@
 
-instance_type = "t2.medium"
+instance_type = "t2.xlarge"
 
 
 
